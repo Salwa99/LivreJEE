@@ -1,1 +1,1 @@
-# Realisation d'une apllication JEE simple pour la gestion des livres
+# Realisation d'une application JEE simple pour la gestion des livres
